@@ -1,0 +1,19 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Contacts (Kotlin)/*
+!/Contacts (Kotlin)/task/
+/Contacts (Kotlin)/task/*
+!/Contacts (Kotlin)/task/src
+!/Contacts (Kotlin)/task/phonebook.db
+!/Contacts (Kotlin)/task/phonebook.txt
+!/Contacts (Kotlin)/task/phonebook.dat
